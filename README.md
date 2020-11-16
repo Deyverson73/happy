@@ -43,7 +43,7 @@ yarn start
 
 ## 🙏🏼 Acknowledgments
 
-My thanks to [Rocketseat] (https://github.com/Rocketseat) for sharing the knowledge needed for this project
+My thanks to [Rocketseat](https://github.com/Rocketseat) for sharing the knowledge needed for this project
 
 ---
 
